@@ -67,4 +67,4 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 If you have any questions about this privacy policy, contact us at:
 
-**[your-email@example.com]**
+**ned.hulseman@gmail.com**
